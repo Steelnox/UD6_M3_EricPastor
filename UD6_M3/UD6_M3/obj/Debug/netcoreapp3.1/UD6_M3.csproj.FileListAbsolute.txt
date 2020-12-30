@@ -1,0 +1,13 @@
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\bin\Debug\netcoreapp3.1\UD6_M3.exe
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\bin\Debug\netcoreapp3.1\UD6_M3.deps.json
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\bin\Debug\netcoreapp3.1\UD6_M3.runtimeconfig.json
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\bin\Debug\netcoreapp3.1\UD6_M3.runtimeconfig.dev.json
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\bin\Debug\netcoreapp3.1\UD6_M3.dll
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\bin\Debug\netcoreapp3.1\UD6_M3.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\obj\Debug\netcoreapp3.1\UD6_M3.csprojAssemblyReference.cache
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\obj\Debug\netcoreapp3.1\UD6_M3.AssemblyInfoInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\obj\Debug\netcoreapp3.1\UD6_M3.AssemblyInfo.cs
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\obj\Debug\netcoreapp3.1\UD6_M3.csproj.CoreCompileInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\obj\Debug\netcoreapp3.1\UD6_M3.dll
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\obj\Debug\netcoreapp3.1\UD6_M3.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD6_M3\UD6_M3\obj\Debug\netcoreapp3.1\UD6_M3.genruntimeconfig.cache
