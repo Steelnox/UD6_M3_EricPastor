@@ -8,6 +8,7 @@ namespace UD6_M3
         {
             Milestone1 m1 = new Milestone1();
             Milestone2 m2 = new Milestone2();
+            Milestone3 m3 = new Milestone3();
 
             string opcion = "";
 
@@ -21,6 +22,9 @@ namespace UD6_M3
                     break;
                 case "2":
                     m2.Notas();
+                    break;
+                case "3":
+                    m3.Fibonacci();
                     break;
                 default:
                     Console.WriteLine("No es una opcion correcta. Vuelve a intentarlo más tarde");
